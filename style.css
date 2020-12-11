@@ -1,0 +1,53 @@
+/* CSS files add styling rules to your content */
+
+body {
+  background-color: #ADD8E6;
+ font-family:"Bilbo Swash Caps";
+ text-size: large;
+ margin: 2em;
+ color: #997878;
+}
+
+h1 {
+ font-style: italic;
+ color: #FFD700;
+}
+
+h2{
+ font-style: italic;
+ color: ;
+}
+
+.sweet{
+ font-Biryani: "helvetica Arial", sans-serif;
+ font-style: italic;
+ color: #D4AF37;
+}
+
+.des{
+height: 300px;
+  width: 250px;
+}
+
+.hero{
+ width: 100%;
+   heigth: 100vh;
+   background-image: url("images/Glitter.jpeg") center no-repeat;
+   background-size: cover;
+ display: flex;
+ align-items: center; 
+   justify-items: center;
+ text-align: center;
+}
+
+.sub-headline{
+ font-size: 6rem;
+ font-Bilbo Swash Caps:
+   font-weight: 200;
+}
+
+.hola{
+font-family:
+ text-size: large;
+}
+
