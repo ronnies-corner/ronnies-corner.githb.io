@@ -6,6 +6,20 @@ body {
  text-size: large;
  margin: 2em;
  color: #997878;
+ text-align: center;
+}
+
+.card-body {
+  background-color: #adaee6;
+}
+
+.nav-link {
+  color: aliceblue;
+}
+
+img {
+  height: 100%;
+  width: 100%;
 }
 
 h1 {
@@ -24,11 +38,6 @@ h2{
  color: #D4AF37;
 }
 
-.des{
-height: 300px;
-  width: 250px;
-}
-
 .hero{
  width: 100%;
    heigth: 100vh;
@@ -44,6 +53,15 @@ height: 300px;
  font-size: 6rem;
  font-Bilbo Swash Caps:
    font-weight: 200;
+}
+
+.card {
+  border: 3px solid aliceblue;
+}
+
+.btn {
+  margin: auto;
+  background-color: #adbce6;
 }
 
 .hola{
